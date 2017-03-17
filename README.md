@@ -1,2 +1,0 @@
-# docker-lnmp
-lnmp,swoole
